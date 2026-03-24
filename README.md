@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm HU</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student  from China.</h3>
 
 - I’m currently learning **Python,Spring Cloud ,Data Structure and Algorithm**
 
